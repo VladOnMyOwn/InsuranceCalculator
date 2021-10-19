@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\C#\\RiderSolutions\\risk_theory\\insurance_calculator\\insurance_calculator.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\C#\\RiderSolutions\\risk_theory\\insurance_calculator\\insurance_calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\C#\\RiderSolutions\\risk_theory\\insurance_calculator\\insurance_calculator.csproj",
+        "projectName": "insurance_calculator",
+        "projectPath": "D:\\Programming\\C#\\RiderSolutions\\risk_theory\\insurance_calculator\\insurance_calculator.csproj",
+        "packagesPath": "C:\\Users\\goroh\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\C#\\RiderSolutions\\risk_theory\\insurance_calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\goroh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
